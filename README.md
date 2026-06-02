@@ -1,70 +1,121 @@
-# Portfolio
-=======
-\# Gourav Srivastava – Product Owner | Fintech \& SaaS
+# Gourav Srivastava
 
+## Technical Product Owner | B2B SaaS | Fintech | Platform Products
 
+Technical Product Owner with 10+ years of experience and 3.5+ years in Product Ownership across Fintech, SaaS, AI and Enterprise Platforms.
 
-\## 👋 About Me
+### Certifications
 
-Product Manager with 9+ years of experience, including 3+ years in end-to-end product ownership across Fintech, B2B SaaS, and Cloud platforms.
+- CSPO (Certified Scrum Product Owner)
+- AWS Certified Cloud Practitioner
+- Generative AI for Product Managers
 
+---
 
+## Product Portfolio
 
-Currently driving fintech product delivery at Basware, managing global payment systems across 200+ countries and 1M+ suppliers.
+### Jira Incident Management Automation
 
+Automated incident handling workflows using Jira Automation Rules to improve response time and reduce manual effort.
 
+📁 Folder: Jira-Automation
 
-\## 💡 What I Do
+---
 
-\- Own product roadmaps for fintech platforms
+### Jira-Slack Integration
 
-\- Translate complex ERP/payment workflows into scalable features
+Designed and implemented Jira-Slack integration for real-time project tracking and stakeholder communication.
 
-\- Drive OKR alignment across business \& engineering
+**Impact**
+- Reduced client feedback turnaround by approximately 80%
 
-\- Deliver measurable business impact at enterprise scale
+---
 
+### Financial Reporting Platform (Basware)
 
+Product ownership of financial reporting and consolidation modules for enterprise SaaS customers.
 
-\## 📊 Key Achievements
+Responsibilities:
 
-\- 🚀 17x sprint execution improvement (5% → 80%)
+- Product Discovery
+- Backlog Ownership
+- PI Planning
+- Sprint Planning
+- Release Management
+- Stakeholder Alignment
 
-\- ⚡ 93% system response time improvement across AWS programs
+---
 
-\- 📉 30% faster feature delivery cycle time
+### AI Resume Parser
 
-\- 🔁 40% faster stakeholder feedback loops
+Product Owner for AI-powered resume parsing solution.
 
-\- 🤖 25% reduction in manual payment processing
+Key Areas:
 
+- Product Strategy
+- Requirements Definition
+- ERP Integrations
+- Sprint Management
+- UAT
 
+---
 
-\## 🧠 Core Skills
+## Skills
 
-Product Management | Agile (SAFe, Scrum, Kanban) | Fintech Payments | ERP Integrations | AWS | SQL | Product Analytics
+### Product Management
 
+- Product Roadmap
+- Backlog Management
+- User Story Writing
+- Acceptance Criteria
+- Product Discovery
+- Release Planning
+- KPI Definition
 
+### Agile
 
-\## 📂 Portfolio Sections
+- Scrum
+- SAFe
+- PI Planning
+- Kanban
 
-\- Product Vision \& Strategy
+### Tools
 
-\- Roadmap \& Execution
+- Jira
+- Confluence
+- Azure DevOps
+- Slack
+- Figma
+- Power BI
+- SQL
 
-\- Backlog (User Stories)
+---
 
-\- Case Studies
+## Domains
 
-\- Metrics \& KPIs
+- Fintech
+- B2B SaaS
+- Manufacturing
+- Enterprise Platforms
+- AI Products
 
-\- Sample Data
+---
 
+## Featured Metrics
 
+| Achievement | Impact |
+|------------|---------|
+| Team Velocity | +15% |
+| Sprint Completion | 80%+ |
+| Client Feedback Turnaround | 80% Faster |
+| Operational Efficiency | +20% |
 
-\## 🔗 Connect
+---
 
-\- LinkedIn: https://linkedin.com/in/gouravs26
+## Contact
 
-\- Email: gsgauravsrivastava64@gmail.com
+LinkedIn:
+https://linkedin.com/in/gouravs26
 
+GitHub:
+https://github.com/GouravSrivastava-PO
