@@ -1,121 +1,61 @@
-# Gourav Srivastava
-
-## Technical Product Owner | B2B SaaS | Fintech | Platform Products
-
-Technical Product Owner with 10+ years of experience and 3.5+ years in Product Ownership across Fintech, SaaS, AI and Enterprise Platforms.
-
-### Certifications
-
-- CSPO (Certified Scrum Product Owner)
-- AWS Certified Cloud Practitioner
-- Generative AI for Product Managers
-
----
-
 ## Product Portfolio
 
-### Jira Incident Management Automation
+### Financial Reporting Platform
 
-Automated incident handling workflows using Jira Automation Rules to improve response time and reduce manual effort.
+Enterprise SaaS platform focused on financial consolidation, forecasting, and reporting.
 
-📁 Folder: Jira-Automation
+**Artifacts**
 
----
+* PRD
+* User Stories
+* Roadmap
+* Metrics
 
-### Jira-Slack Integration
+**Outcome**
 
-Designed and implemented Jira-Slack integration for real-time project tracking and stakeholder communication.
-
-**Impact**
-- Reduced client feedback turnaround by approximately 80%
-
----
-
-### Financial Reporting Platform (Basware)
-
-Product ownership of financial reporting and consolidation modules for enterprise SaaS customers.
-
-Responsibilities:
-
-- Product Discovery
-- Backlog Ownership
-- PI Planning
-- Sprint Planning
-- Release Management
-- Stakeholder Alignment
+* Improved reporting visibility
+* Standardized financial consolidation workflows
+* Enhanced stakeholder reporting experience
 
 ---
 
 ### AI Resume Parser
 
-Product Owner for AI-powered resume parsing solution.
+AI-powered solution for automated resume screening and candidate profiling.
 
-Key Areas:
+**Artifacts**
 
-- Product Strategy
-- Requirements Definition
-- ERP Integrations
-- Sprint Management
-- UAT
+* PRD
+* User Stories
+* Workflow
+* KPI Impact
 
----
+**Outcome**
 
-## Skills
-
-### Product Management
-
-- Product Roadmap
-- Backlog Management
-- User Story Writing
-- Acceptance Criteria
-- Product Discovery
-- Release Planning
-- KPI Definition
-
-### Agile
-
-- Scrum
-- SAFe
-- PI Planning
-- Kanban
-
-### Tools
-
-- Jira
-- Confluence
-- Azure DevOps
-- Slack
-- Figma
-- Power BI
-- SQL
+* Faster candidate screening
+* Reduced manual effort
+* Improved recruiter productivity
 
 ---
 
-## Domains
+### Jira-Slack Integration
 
-- Fintech
-- B2B SaaS
-- Manufacturing
-- Enterprise Platforms
-- AI Products
+Real-time project communication automation between Jira and Slack.
 
----
+**Outcome**
 
-## Featured Metrics
-
-| Achievement | Impact |
-|------------|---------|
-| Team Velocity | +15% |
-| Sprint Completion | 80%+ |
-| Client Feedback Turnaround | 80% Faster |
-| Operational Efficiency | +20% |
+* Reduced client feedback turnaround by ~80%
+* Improved stakeholder visibility
+* Faster issue resolution
 
 ---
 
-## Contact
+### Incident Management Automation
 
-LinkedIn:
-https://linkedin.com/in/gouravs26
+Automated incident routing, prioritization and escalation workflows.
 
-GitHub:
-https://github.com/GouravSrivastava-PO
+**Outcome**
+
+* Reduced manual intervention
+* Improved SLA adherence
+* Faster incident response
