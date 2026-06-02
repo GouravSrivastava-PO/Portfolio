@@ -1,6 +1,6 @@
 # Portfolio
 =======
-\# Gaurav Srivastava – Product Owner | Fintech \& SaaS
+\# Gourav Srivastava – Product Owner | Fintech \& SaaS
 
 
 
