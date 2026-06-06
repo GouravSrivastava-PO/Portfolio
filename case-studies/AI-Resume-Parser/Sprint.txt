@@ -1,0 +1,112 @@
+# AI Resume Parser Platform
+
+## Overview
+
+Led product delivery for an AI-powered Resume Parser platform designed to automate candidate screening and reduce manual recruitment effort.
+
+The platform leveraged Natural Language Processing (NLP) and AI models to extract candidate information from resumes and map it to job requirements.
+
+---
+
+## Business Problem
+
+Recruiters spent significant time manually reviewing resumes.
+
+Challenges included:
+
+* High screening effort.
+* Inconsistent candidate evaluation.
+* Delayed hiring cycles.
+* Difficulty identifying suitable candidates at scale.
+
+---
+
+## Product Goal
+
+Build an AI-driven solution capable of:
+
+* Parsing resumes automatically.
+* Extracting structured candidate data.
+* Matching candidates against job requirements.
+* Reducing recruiter workload.
+
+---
+
+## My Role
+
+Product Owner
+
+### Responsibilities
+
+* Product discovery.
+* Stakeholder interviews.
+* Backlog ownership.
+* Sprint planning.
+* User story definition.
+* Acceptance criteria creation.
+* Release planning.
+
+---
+
+## Key Features
+
+### Resume Parsing
+
+Extracted:
+
+* Candidate Name
+* Contact Information
+* Skills
+* Experience
+* Education
+* Certifications
+
+### AI Matching Engine
+
+* Job-to-candidate scoring.
+* Skill matching.
+* Experience relevance analysis.
+
+### Recruiter Dashboard
+
+* Candidate ranking.
+* Search and filtering.
+* Hiring insights.
+
+### ERP Integrations
+
+* Recruitment workflow integration.
+* Candidate data synchronization.
+* Automated onboarding workflows.
+
+---
+
+## Sample User Story
+
+**As a Recruiter**
+
+I want resumes to be parsed automatically
+
+So that I can quickly identify qualified candidates without manual review.
+
+### Acceptance Criteria
+
+* Resume processed within 10 seconds.
+* Candidate profile generated automatically.
+* Skills extracted with high accuracy.
+* Matching score displayed.
+
+---
+
+## Success Metrics
+
+* Reduced manual screening effort.
+* Faster candidate shortlisting.
+* Improved recruiter productivity.
+* Higher candidate processing capacity.
+
+---
+
+## Outcome
+
+Delivered an AI-enabled recruitment solution that improved hiring efficiency, streamlined recruiter workflows, and enabled scalable candidate evaluation through automation and structured data extraction.
