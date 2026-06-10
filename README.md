@@ -2,73 +2,120 @@
 
 ## Technical Product Owner | Enterprise SaaS | AI Products | Jira Administration
 
-Product professional with 9 years of experience across Product Ownership, Customer Success, Enterprise SaaS, Automation and Agile Delivery.
+Product professional with 10+ years of experience across Product Ownership, Enterprise SaaS, Customer Success, Workflow Automation, Agile Delivery, and Jira Administration.
 
-Currently working as a Product Owner at Basware, driving product enhancements, workflow automation and stakeholder alignment across enterprise solutions.
+Experienced in driving product discovery, backlog management, stakeholder alignment, release planning, process automation, and cross-functional collaboration within enterprise environments.
 
-## Core Expertise
+---
 
-* Product Management
+## Core Competencies
+
 * Product Ownership
-* Agile Delivery
+* Product Management
+* Agile & SAFe Delivery
 * Jira Administration
-* AI-Powered Products
+* Enterprise SaaS Platforms
+* AI-Powered Product Solutions
 * Workflow Automation
-* Enterprise SaaS
+* Incident Management
+* Product Discovery
+* Backlog Prioritization
 * Stakeholder Management
+* Product Metrics & Reporting
 
-## Featured Case Studies
+---
+
+## Featured Product Case Studies
 
 ### Financial Reporting Platform
 
-Enterprise SaaS platform focused on financial consolidation, forecasting and reporting.
+Enterprise SaaS solution focused on financial consolidation, forecasting, and reporting.
 
-**Impact**
+**Highlights**
 
-* Improved reporting visibility
-* Standardized financial workflows
-* Enhanced stakeholder decision-making
+* Product discovery and backlog ownership
+* Stakeholder alignment across finance teams
+* Reporting automation and workflow improvements
+* Forecasting and consolidation capabilities
+
+---
+
+### Jira Service Management Integration
+
+Integrated Jira Service Management, Prometheus, PagerDuty, and Slack to automate incident management workflows.
+
+**Highlights**
+
+* Automated incident creation
+* Smart routing and escalation workflows
+* Improved operational visibility
+* Enhanced stakeholder communication
+
+---
 
 ### AI Resume Parser
 
-AI-powered solution for automated resume screening and candidate profiling.
+AI-powered solution for resume screening and candidate profiling.
 
-**Impact**
+**Highlights**
 
-* Faster candidate screening
-* Reduced manual effort
-* Improved recruiter productivity
+* Product Requirements Document (PRD)
+* User Stories and Acceptance Criteria
+* Candidate scoring and ranking workflows
+* Product success metrics definition
 
-### Jira Service Desk Integration
+---
 
-Automation solution connecting support teams and stakeholders for faster issue management.
+### Release Notes Automation
 
-**Impact**
+Automation framework designed to streamline release communication and improve transparency.
 
-* Reduced feedback turnaround time
+**Highlights**
+
+* Automated release note generation
 * Improved stakeholder visibility
-* Faster issue resolution
+* Reduced manual documentation effort
 
-### Incident Management Automation
+---
 
-Automated routing, prioritization and escalation workflows.
+## Portfolio Contents
 
-**Impact**
+### Product Artifacts
 
-* Improved SLA adherence
-* Reduced manual intervention
-* Faster incident response
+* Product Requirements Documents (PRDs)
+* User Stories
+* Acceptance Criteria
+* Sprint Planning Examples
+* Success Metrics
 
-## Portfolio Structure
+### Product Case Studies
 
-* Case Studies
-* Agile Artifacts
-* Product Metrics
-* Automations
-* Backlog Prioritization Frameworks
+* Financial Reporting Platform
+* Jira Service Management Integration
+* AI Resume Parser
+* Release Notes Automation
 
-## Contact
+### Agile Delivery
+
+* Backlog Management
+* Sprint Planning
+* Prioritization Frameworks
+* Stakeholder Collaboration
+
+---
+
+## Professional Background
+
+* 10+ Years Total Experience
+* 3.5+ Years in Product Ownership
+* Enterprise SaaS Domain Experience
+* Jira Administration & Automation
+* Customer Success & Stakeholder Management
+
+---
+
+## Connect
 
 GitHub: GouravSrivastava-PO
 
-LinkedIn: https://www.linkedin.com/in/gouravs26/
+LinkedIn: [www.linkedin.com/in/gouravs26](http://www.linkedin.com/in/gouravs26)
