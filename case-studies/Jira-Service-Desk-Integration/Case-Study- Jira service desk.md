@@ -240,5 +240,3 @@ So that incident response can begin immediately without manual intervention.
 
 The integrated workflow streamlined incident management, improved cross-team collaboration, and established a scalable process for handling production incidents across engineering and support teams.
 
-
-
