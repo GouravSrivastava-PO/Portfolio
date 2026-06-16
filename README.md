@@ -184,7 +184,6 @@ Portfolio/
 ## Certifications
 
 - **CSPO** — Certified Scrum Product Owner · Scrum Alliance
-- **SAFe** — Practitioner (applied within Basware's scaled agile delivery model)
 - **AWS Cloud Practitioner**
 - **Oracle ERP SaaS SCM**
 - **Generative AI for Product Management**
