@@ -1,12 +1,12 @@
 # Gourav Srivastava
-### Senior Product Manager · B2B SaaS · AI Products · Enterprise Fintech Platforms
+### Technical Product Owner · B2B SaaS · AI Products · Enterprise Fintech Platforms
 
 ---
 
 > I build products where business complexity meets engineering precision —  
 > turning ambiguous enterprise problems into structured, measurable, and shipped solutions.
 
-10+ years of experience across enterprise product delivery. 3.5+ years as a dedicated Product Owner and Senior PM across B2B SaaS, AI-powered automation, and fintech platforms serving Fortune 500 clients.
+10+ years of experience across enterprise product delivery. 3.5+ years as a dedicated Technical Product Owner across B2B SaaS, AI-powered automation, and fintech platforms serving Fortune 500 clients.
 
 I operate at the layer where product strategy meets execution: defining *what* to build and *why*, aligning engineering and business stakeholders around shared outcomes, and holding the line on measurable impact over output.
 
@@ -184,7 +184,7 @@ Portfolio/
 ## Certifications
 
 - **CSPO** — Certified Scrum Product Owner · Scrum Alliance
-- **SAFe** — Scaled Agile Framework
+- **SAFe** — Practitioner (applied within Basware's scaled agile delivery model)
 - **AWS Cloud Practitioner**
 - **Oracle ERP SaaS SCM**
 - **Generative AI for Product Management**
@@ -195,3 +195,4 @@ Portfolio/
 
 **LinkedIn:** [linkedin.com/in/gouravs26](https://www.linkedin.com/in/gouravs26)  
 **GitHub:** [github.com/GouravSrivastava-PO](https://github.com/GouravSrivastava-PO)
+
