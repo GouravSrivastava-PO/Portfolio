@@ -5,7 +5,7 @@ Quantified outcomes by company and role. Each metric is anchored to the mechanis
 ---
 
 ## Basware · Technical Product Owner
-*Enterprise SaaS Financial Reporting & Consolidation Platform*
+*Enterprise SaaS Financial Reporting & Consolidation Platform · Nov 2024 – Jun 2026*
 
 ### Delivery Outcomes
 
@@ -15,18 +15,22 @@ Quantified outcomes by company and role. Each metric is anchored to the mechanis
 
 - **Rework reduced** by embedding acceptance criteria review into the story refinement session itself, so dev and QA were aligned on edge cases before a line of code was written — not after
 
+- **Data-quality issues found and fixed** by validating consolidation and dashboard numbers with SQL, catching incorrect numbers and mismatches before they reached finance users, and cutting manual reporting cycles
+
+- **Self-service tooling adopted across 3 teams** by working with engineering on scalability requirements instead of one-off customer builds
+
 - **Onboarding time reduced** by building a structured knowledge base covering the financial consolidation module's data model, workflow logic, and configuration options, replacing ad-hoc knowledge transfer that had been slowing new team members down
 
 ---
 
 ## Connoisseur Infotech · Product Owner
-*AI Resume Parser + ERP Integrations*
+*AI Resume Parser + ERP Integrations · Jul 2024 – Nov 2024*
 
 ### Delivery Outcomes
 
 - **5 ERP integrations delivered** by defining end-to-end integration specs with clear data contracts, error handling requirements, and acceptance criteria for each integration point — enabling engineering to build without constant clarification loops
 
-- **Operational efficiency improved ~20%** by automating the manual resume-processing workflow through an AI-powered candidate screening pipeline that extracted, scored, and ranked candidates without recruiter intervention at the intake stage
+- **Operational efficiency improved** by automating the manual resume-processing workflow through an AI-powered candidate screening pipeline that extracted, scored, and ranked candidates without recruiter intervention at the intake stage
 
 - **Sprint completion scaled from near-zero to 80%+** in under one quarter by introducing structured sprint planning rituals, a backlog grooming cadence, and a Definition of Done that the team had a shared understanding of for the first time
 
@@ -35,7 +39,7 @@ Quantified outcomes by company and role. Each metric is anchored to the mechanis
 ---
 
 ## Comprinno Technology · Associate Project Manager
-*Incident Management & Project Delivery Automation*
+*Incident Management & Project Delivery Automation · Jan 2023 – Jul 2024*
 
 ### Delivery Outcomes
 

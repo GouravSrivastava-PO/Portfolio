@@ -1,12 +1,14 @@
 # Gourav Srivastava
-### Technical Product Owner · B2B SaaS · AI Products · Enterprise Fintech Platforms
+### Product Manager · Data-Driven Products · ML, Mobile & Gaming · B2B SaaS & Fintech
 
 ---
 
 > I build products where business complexity meets engineering precision —  
 > turning ambiguous enterprise problems into structured, measurable, and shipped solutions.
 
-10+ years of experience across enterprise product delivery. 3.5+ years as a dedicated Technical Product Owner across B2B SaaS, AI-powered automation, and fintech platforms serving Fortune 500 clients.
+3.5 years in product management and 8+ years of total experience, across B2B SaaS, AI-powered automation, fintech platforms with customers in 100+ countries, and now B2C iGaming. CSPO certified · B.Tech, MBA.
+
+**Currently:** Technical Project Manager at Techindustan, running the discovery phase of a B2C casino (iGaming) platform for the client Stake, working with the client and engineering on requirements, scope and delivery planning.
 
 I operate at the layer where product strategy meets execution: defining *what* to build and *why*, aligning engineering and business stakeholders around shared outcomes, and holding the line on measurable impact over output.
 
@@ -21,6 +23,8 @@ I operate at the layer where product strategy meets execution: defining *what* t
 | **Execution Rigour** | End-to-end backlog ownership — epics, user stories, acceptance criteria, sprint planning, DoR/DoD, and release governance |
 | **Metrics & Outcomes** | Defining success *before* building; separating input metrics from output metrics; designing for measurability from day one |
 | **Stakeholder Alignment** | Navigating multi-stakeholder environments across finance, engineering, operations, and C-suite without losing delivery momentum |
+| **Data & Experimentation** | SQL analysis of large-scale and real-time data to find anomalies, trends and data-quality issues; planning and measuring A/B tests against defined success metrics |
+| **AI & ML Products** | ML and prediction-model products, including recommendation and personalisation; designing prompts and AI workflows |
 | **Platform Thinking** | Designing for scale — API-first integrations, automation pipelines, configurability over one-off customisation |
 
 ---
@@ -29,9 +33,10 @@ I operate at the layer where product strategy meets execution: defining *what* t
 
 | Company | Product | Role | Outcome |
 |---|---|---|---|
-| **Basware** | Financial Reporting & Consolidation Platform | Technical Product Owner | Velocity ↑15% · Sprint completion >80% sustained · Multi-entity consolidation standardised |
-| **Connoisseur Infotech** | AI Resume Parser + ERP Integrations | Product Owner | 5 ERP integrations shipped · Operational efficiency ↑20% · Sprint completion 0 → 80%+ |
-| **Comprinno Technology** | Incident & Project Automation | Associate PM | Client feedback turnaround ↓80% · SLA adherence improved · Manual incident steps eliminated |
+| **Techindustan** (current) | B2C Casino Platform (iGaming) | Technical Project Manager | Leading discovery: requirements, scope & delivery planning with client and engineering |
+| **Basware** | Financial Reporting & Consolidation Platform | Technical Product Owner | Velocity ↑15% · Sprint completion >80% sustained · Data-quality issues found via SQL & fixed · Self-service tooling adopted by 3 teams |
+| **Connoisseur Infotech** | AI Resume Parser + ERP Integrations | Product Owner | 5 ERP & communication integrations shipped · Sprint completion 0 → 80%+ · Post-launch defects reduced |
+| **Comprinno Technology** | Incident & Project Automation | Associate Project Manager | Client feedback turnaround ↓80% · Manual incident steps eliminated · Exceptional Execution award 2023 |
 
 ---
 
@@ -41,6 +46,8 @@ I operate at the layer where product strategy meets execution: defining *what* t
 
 ### 01 · Financial Reporting Platform
 `Enterprise SaaS` · `Fintech` · `Multi-entity Consolidation` · `SAFe Delivery`
+
+*Basware · Technical Product Owner · Nov 2024 – Jun 2026*
 
 **The Problem**
 
@@ -57,12 +64,14 @@ The data existed. The problem was the absence of a standardised consolidation st
 - Introduced SAFe sprint cadence and a Definition of Ready (DoR) gate to eliminate mid-sprint scope ambiguity and unplanned rework
 - Aligned engineering, finance, and business unit stakeholders on a phased roadmap with clear entry/exit criteria per phase
 - Owned end-to-end backlog: epics, story refinement, acceptance criteria, sprint planning, and release sign-off
+- Validated consolidation and dashboard numbers with SQL, found data-quality issues (incorrect numbers, mismatches) and got them fixed
 
 **Outcomes**
 
 - Team velocity improved ~15% through backlog hygiene and upstream clarity on requirements
 - Sprint completion rate sustained consistently above 80%
 - Reduced manual reporting effort and improved financial data confidence across multi-entity consolidation
+- Self-service tooling adopted across 3 teams
 
 📁 [View Case Study →](./case-studies/Financial-Reporting-Platform)
 
@@ -70,6 +79,8 @@ The data existed. The problem was the absence of a standardised consolidation st
 
 ### 02 · Incident Management Automation
 `Platform Integration` · `Prometheus · PagerDuty · Jira Service Management · Slack` · `MTTA / MTTR`
+
+*Comprinno Technology · Associate Project Manager · Jan 2023 – Jul 2024*
 
 **The Problem**
 
@@ -88,7 +99,7 @@ Every minute between detection and acknowledgement widens the blast radius. The 
 
 **Outcomes**
 
-- Client feedback and incident acknowledgement turnaround reduced by ~80%
+- Client feedback turnaround reduced by ~80% through the Jira–Slack integration
 - Manual incident creation and stakeholder notification steps fully eliminated
 - Established a scalable, auditable pipeline with end-to-end traceability from alert to resolution
 
@@ -98,6 +109,8 @@ Every minute between detection and acknowledgement widens the blast radius. The 
 
 ### 03 · AI Resume Parser
 `AI / NLP` · `Recruiting Technology` · `0→1 Product` · `ERP Integration`
+
+*Connoisseur Infotech · Product Owner · Jul 2024 – Nov 2024*
 
 **The Problem**
 
@@ -112,7 +125,8 @@ The bottleneck was not evaluator judgment — recruiters were good at their job.
 - Ran structured discovery interviews with recruiters and hiring managers to validate the hypothesis: screening time, not evaluation quality, was the primary constraint
 - Defined the product scope: resume parsing (PDF and DOCX), structured candidate data extraction, AI-generated candidate summaries, and job-to-candidate scoring — deliberately excluding interview scheduling and offer management to keep focus on the highest-value layer
 - Set hard accuracy and performance thresholds in acceptance criteria (parsing accuracy >95%, processing time <10 seconds per resume) rather than leaving quality as a post-launch conversation
-- Delivered 5 ERP integrations connecting the parser to downstream recruitment and onboarding workflows
+- Designed the prompts and AI workflows behind extraction and candidate summaries
+- Delivered 5 ERP and communication integrations, including real-time event and notification flows, connecting the parser to downstream recruitment and onboarding workflows
 - Owned the full backlog across five epics from discovery through launch
 
 **Success Metrics Defined Pre-Build**
@@ -127,7 +141,8 @@ The bottleneck was not evaluator judgment — recruiters were good at their job.
 
 **Outcomes**
 
-- Operational efficiency improved ~20% across recruiter workflows
+- Operational efficiency improved across recruiter workflows
+- Post-launch defects reduced by writing negative scenarios and edge cases into acceptance criteria
 - Sprint completion scaled from near-zero to 80%+ within one quarter through structured agile delivery
 
 📁 [View Case Study →](./case-studies/AI-Resume-Parser)
@@ -163,30 +178,53 @@ The data needed to generate release notes already existed in Jira at sprint clos
 
 ---
 
+### 05 · Gaming Platform Auth: Delivery Plan Against a Fixed Launch Date
+`iGaming` · `Multi-tenant Platform` · `Compliance & KYC` · `Interview Exercise`
+
+**The Problem**
+
+A multi-tenant online gaming platform needed authentication and authorization delivered for a licence-fixed launch in Canada (excluding Ontario), with LATAM to follow. Four engineering teams were involved, the identity vendor was not yet chosen, and compliance and legal had to sign off on KYC, responsible gaming and data residency.
+
+**What I Did**
+
+- Planned a 16-week phased delivery (T-16 → T-0) around an MVP slice: one brand, one market, web, where a real player can log in and place one real-money bet, before expanding to all brands and partners
+- Mapped the critical path across four teams, compliance and the vendor, and named the vendor decision as the dependency blocking three teams
+- Built a RAID log where every risk has a concrete trigger (e.g. "no signed contract by T-13"), not "monitor closely"
+- Wrote a go/no-go checklist with a hard "No" condition per item (e.g. a self-excluded test player can place a bet), plus an amber stakeholder update and calls on six judgement scenarios
+
+📁 [View Exercise →](./Interview-Assignment)
+
+---
+
 ## Repository Structure
 
 ```
 Portfolio/
-├── case-studies/             # Full case studies — PRDs, user stories, acceptance criteria, metrics
+├── case-studies/             # Full case studies: PRDs, user stories, acceptance criteria, metrics
 │   ├── Financial-Reporting-Platform/
 │   ├── AI-Resume-Parser/
 │   ├── Jira-Service-Desk-Integration/
 │   └── Release-Notes/
-├── agile-artifacts/          # Roadmaps, sprint planning, user story examples
-├── backlog/                  # Prioritisation frameworks with applied examples
-├── automations/              # Automation workflow documentation
-├── resume/                   # Current CV
+├── Interview-Assignment/     # Gaming platform auth delivery plan (brief + response)
+├── agile-artifacts/          # Roadmap, acceptance criteria, user story examples
+├── backlog/                  # Prioritisation framework with an applied example
+├── Comprinno/                # Jira Service Desk walkthrough video, execution award
+├── resume/                   # Current resume
 └── product-metrics.md        # Quantified outcomes by company and role
 ```
+
+📄 [Download resume](./resume/Gourav_Srivastava_Resume_ProductManager.docx)
 
 ---
 
 ## Certifications
 
-- **CSPO** — Certified Scrum Product Owner · Scrum Alliance
-- **AWS Cloud Practitioner**
-- **Oracle ERP SaaS SCM**
-- **Generative AI for Product Management**
+- **CSPO**: Certified Scrum Product Owner · Scrum Alliance
+- **SAFe® 6.0**: Complete Scaled Agile Framework In-Depth
+- **AWS Certified Cloud Practitioner**
+- **Machine Learning for PMs**: Managing ML Projects · ML Foundations for Product Managers · Human Factors in AI (Duke University)
+- **Generative AI for Product Managers**
+- **Oracle ERP**: Functional Principles of EBS & SaaS (SCM)
 
 ---
 
