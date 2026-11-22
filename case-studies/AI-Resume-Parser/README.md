@@ -1,70 +1,119 @@
-\# AI Resume Parser
+# AI Resume Parser Platform
 
+`Connoisseur Infotech` · Product Owner · Jul 2024 – Nov 2024
 
+**Artifacts in this folder:** [PRD](./PRD.md) · [User Stories](./USER_STORIES.md) · [Success Metrics](./SUCCESS_METRICS.md)
 
-\## Overview
+## Overview
 
+Led product delivery for an AI-powered Resume Parser platform designed to automate candidate screening and reduce manual recruitment effort.
 
+The platform leveraged Natural Language Processing (NLP) and AI models to extract candidate information from resumes and map it to job requirements.
 
-AI-powered resume parsing solution designed to automate candidate screening, extract relevant skills, and improve recruiter efficiency.
+---
 
+## Business Problem
 
+Recruiters spent significant time manually reviewing resumes.
 
-\## Business Problem
+Challenges included:
 
+* High screening effort.
+* Inconsistent candidate evaluation.
+* Delayed hiring cycles.
+* Difficulty identifying suitable candidates at scale.
 
+---
 
-Recruiters spend significant time manually reviewing resumes, leading to inconsistent evaluations and delayed hiring decisions.
+## Product Goal
 
+Build an AI-driven solution capable of:
 
+* Parsing resumes automatically.
+* Extracting structured candidate data.
+* Matching candidates against job requirements.
+* Reducing recruiter workload.
 
-\## Product Goal
+---
 
+## My Role
 
+Product Owner
 
-Build an intelligent resume parsing solution that automatically extracts candidate information, identifies relevant skills, and supports faster screening decisions.
+### Responsibilities
 
+* Product discovery, including weekly conversations with users.
+* Stakeholder interviews.
+* Backlog ownership.
+* Sprint planning.
+* User story definition.
+* Acceptance criteria creation.
+* Release planning.
+* Designing the prompts and AI workflows behind parsing and summaries.
 
+---
 
-\## Key Features
+## Key Features
 
+### Resume Parsing
 
+Extracted:
 
-\* Resume Parsing
+* Candidate Name
+* Contact Information
+* Skills
+* Experience
+* Education
+* Certifications
 
-\* Skill Extraction
+### AI Matching Engine
 
-\* Candidate Profiling
+* Job-to-candidate scoring.
+* Skill matching.
+* Experience relevance analysis.
 
-\* Automated Screening
+### Recruiter Dashboard
 
-\* Recruiter Dashboard
+* Candidate ranking.
+* Search and filtering.
+* Hiring insights.
 
+### ERP & Communication Integrations
 
+5 integrations delivered, including real-time event and notification flows.
 
-\## Product Artifacts
+* Recruitment workflow integration.
+* Candidate data synchronization.
+* Automated onboarding workflows.
 
+---
 
+## Sample User Story
 
-\* PRD
+**As a Recruiter**
 
-\* User Stories
+I want resumes to be parsed automatically
 
-\* Success Metrics
+So that I can quickly identify qualified candidates without manual review.
 
-\* Sprint Planning Artifacts
+### Acceptance Criteria
 
+* Resume processed within 10 seconds.
+* Candidate profile generated automatically.
+* Skills extracted with high accuracy.
+* Matching score displayed.
 
+---
 
-\## Expected Outcomes
+## Success Metrics
 
+* Reduced manual screening effort.
+* Faster candidate shortlisting.
+* Improved recruiter productivity.
+* Higher candidate processing capacity.
 
+---
 
-\* Reduced manual screening effort
+## Outcome
 
-\* Faster candidate shortlisting
-
-\* Improved recruiter productivity
-
-\* Better hiring consistency
-
+Delivered an AI-enabled recruitment solution that improved hiring efficiency, streamlined recruiter workflows, and enabled scalable candidate evaluation through automation and structured data extraction.
